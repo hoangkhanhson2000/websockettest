@@ -12,8 +12,10 @@ var stompClient = null;
 var username = null;
 
 var colors = [
-    '#2196F3', '#32c787', '#00BCD4', '#ff5652',
-    '#ffc107', '#ff85af', '#FF9800', '#39bbb0'
+    '#2196F3', '#32c787', '#0f94a5', '#ff5652',
+    '#ffc107', '#ff85af', '#c27604', '#008378',
+    '#ffffff', '#5b6260', '#143338', '#000000',
+    '#ad8600', '#b4003f', '#c9a4a4', '#008378'
 ];
 
 function connect(event) {
